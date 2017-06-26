@@ -49,9 +49,9 @@
         <checksum>https://github.com/zqfaen/tva-common/raw/master/addons.xml.md5</checksum>
         <datadir zip="true">https://github.com/zqfaen/tva-common/raw/master/zips/</datadir>
   </dir>
-            <info compressed="false">https://github.com/1kcalbwel/repo/blob/master/_repo/addons.xml</info>
-            <checksum>https://github.com/1kcalbwel/repo/blob/master/_repo/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/1kcalbwel/repo/tree/master/_repo/</datadir>
+            <info compressed="false">https://github.com/1kcalbwel/repo/raw/master/_repo/addons.xml</info>
+            <checksum>https://github.com/1kcalbwel/repo/raw/master/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/1kcalbwel/repo/raw/master/_repo/</datadir>
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
